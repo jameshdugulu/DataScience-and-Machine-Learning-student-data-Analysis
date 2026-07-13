@@ -1,0 +1,254 @@
+StudentID,School,District,Gender,Age,StudyHoursPerDay,AbsenceDays,ParentEducation,HasInternet,AttendsTutoring,PreviousGrade,SleepHours,Extracurricular,FinalScore,GradeLabel
+STU0001,Kigali High School,Gasabo,Male,18,1.2,9,Primary,1,0,56,6.0,3,63.2,C
+STU0002,École Belge,Kicukiro,Male,18,1.5,19,Secondary,1,0,42,4.4,4,46.5,Fail
+STU0003,École Belge,Nyarugenge,Female,15,3.9,19,Secondary,1,1,74,6.0,1,68.9,C
+STU0004,FAWE Girls,Kicukiro,Female,19,1.9,3,Secondary,1,1,79,7.1,3,90.0,A
+STU0005,FAWE Girls,Nyarugenge,Male,17,4.0,14,University,0,1,82,7.0,0,75.3,B
+STU0006,Kigali High School,Gasabo,female,16,7.6,0,None,1,1,94,6.1,2,98.0,A
+STU0007,Green Hills Academy,Nyarugenge,Male,15,5.9,17,Secondary,1,1,42,8.2,4,72.4,B
+STU0008,FAWE Girls,Musanze,Female,17,3.5,7,University,0,0,78,5.8,2,80.4,A
+STU0009,École Belge,Gasabo,Female,19,3.7,14,Primary,0,1,60,5.2,0,70.4,B
+STU0010,Lycée de Kigali,Kicukiro,Female,16,3.1,20,University,1,0,88,5.2,4,63.9,C
+STU0011,FAWE Girls,Kicukiro,Male,19,1.4,9,University,1,0,40,4.5,0,68.4,C
+STU0012,Lycée de Kigali,Gasabo,Female,15,4.0,22,University,0,0,33,4.4,3,46.6,Fail
+STU0013,Kigali High School,Nyarugenge,Female,17,25.0,4,Secondary,1,0,48,5.3,0,73.6,B
+STU0014,Lycée de Kigali,Gasabo,Female,19,2.4,12,Secondary,1,1,49,9.0,4,58.2,D
+STU0015,Kigali High School,Nyarugenge,Female,19,6.5,2,University,1,0,46,7.1,1,100.0,A
+STU0016,Kigali High School,Nyarugenge,Female,17,0.6,15,Secondary,1,0,51,8.4,4,59.3,C
+STU0017,Green Hills Academy,Musanze,Male,19,3.7,12,Secondary,1,0,36,8.7,3,51.1,D
+STU0018,École Belge,Musanze,Female,15,5.2,0,Primary,1,0,59,4.2,4,94.8,A
+STU0019,FAWE Girls,Kicukiro,M,18,7.7,8,University,1,0,45,5.2,4,97.7,A
+STU0020,Kigali High School,Bugesera,Male,19,7.7,18,None,0,0,43,5.2,1,50.0,D
+STU0021,Green Hills Academy,Bugesera,Female,15,2.7,17,University,1,1,80,6.4,3,75.0,B
+STU0022,École Belge,Gasabo,Female,18,3.1,20,Primary,0,1,39,4.5,0,47.0,Fail
+STU0023,FAWE Girls,Kicukiro,Female,18,0.9,9,Secondary,1,0,38,5.4,2,41.8,Fail
+STU0024,Kigali High School,Bugesera,Male,19,3.7,20,Primary,1,0,66,,3,58.3,D
+STU0025,École Belge,Kicukiro,Male,19,1.0,22,Secondary,1,1,85,6.4,4,65.4,C
+STU0026,École Belge,Nyarugenge,Male,17,4.3,15,Secondary,0,0,34,5.8,0,53.8,D
+STU0027,Kigali High School,Nyarugenge,Female,15,0.7,2,Primary,0,1,55,7.8,4,83.7,A
+STU0028,FAWE Girls,Gasabo,Male,16,3.2,0,Primary,1,1,58,7.9,3,78.7,B
+STU0029,Kigali High School,Bugesera,Female,17,5.2,3,Primary,1,1,62,7.7,2,83.4,A
+STU0030,Kigali High School,Musanze,Male,17,2.7,10,Secondary,1,1,82,5.1,1,75.0,B
+STU0031,FAWE Girls,Musanze,Female,18,4.4,19,Secondary,0,0,32,4.7,1,57.4,D
+STU0032,École Belge,Gasabo,Female,18,4.0,2,None,0,1,54,9.3,4,71.6,B
+STU0033,FAWE Girls,Nyarugenge,Male,19,1.3,17,,0,1,66,7.2,2,65.6,C
+STU0034,kigali high school,Musanze,Female,18,1.2,23,Secondary,1,0,82,5.8,2,47.6,Fail
+STU0035,Kigali High School,Bugesera,Male,19,0.6,21,University,1,0,50,5.2,4,52.0,D
+STU0036,Kigali High School,Kicukiro,Female,17,3.7,22,Secondary,0,1,91,5.0,1,62.8,C
+STU0037,FAWE Girls,Nyarugenge,Male,16,4.4,15,Secondary,1,0,64,8.1,4,71.2,B
+STU0038,Lycée de Kigali,Nyarugenge,Male,15,5.1,20,Secondary,1,1,60,5.4,2,62.5,C
+STU0039,École Belge,Kicukiro,Female,16,6.3,20,Secondary,0,1,54,8.5,0,70.4,B
+STU0040,FAWE Girls,Nyarugenge,Male,18,5.4,1,University,1,1,65,7.0,1,96.6,A
+STU0041,École Belge,Kicukiro,Male,19,2.9,1,Primary,1,0,94,7.6,3,82.7,A
+STU0042,FAWE Girls,Nyarugenge,Male,16,5.6,16,None,1,0,49,5.7,3,63.2,C
+STU0043,Lycée de Kigali,Nyarugenge,Male,18,3.5,8,Primary,1,1,44,9.3,1,64.5,C
+STU0044,École Belge,Kicukiro,Male,18,0.8,8,University,1,0,42,9.4,3,65.8,C
+STU0045,FAWE Girls,Kicukiro,Male,17,3.3,14,University,0,0,35,8.9,2,53.2,D
+STU0046,Lycée de Kigali,Bugesera,Male,19,3.0,13,University,0,0,58,9.7,3,82.1,A
+STU0047,Kigali High School,Nyarugenge,Female,17,4.0,18,Secondary,0,0,53,4.7,0,56.2,D
+STU0048,FAWE Girls,Gasabo,Male,18,2.1,180,University,1,0,58,9.9,4,67.0,C
+STU0049,Kigali High School,Nyarugenge,Female,19,1.1,8,Secondary,1,0,46,5.4,4,54.9,D
+STU0050,Green Hills Academy,Kicukiro,Male,17,4.0,13,Secondary,0,0,55,5.4,1,68.5,C
+STU0051,Green Hills Academy,Musanze,Male,15,7.4,3,Primary,1,1,86,9.5,0,100.0,A
+STU0052,École Belge,Gasabo,Female,18,4.1,6,Primary,1,0,76,9.2,4,98.7,A
+STU0053,Kigali High School,Kicukiro,Male,18,6.7,11,Secondary,1,1,31,9.2,3,96.8,A
+STU0054,FAWE Girls,Nyarugenge,Female,18,1.1,12,Secondary,1,0,43,4.6,4,49.2,D
+STU0055,Kigali High School,Gasabo,Female,19,1.2,3,University,1,1,80,,1,80.7,A
+STU0056,École Belge,Kicukiro,Female,16,3.2,7,Secondary,0,0,69,7.4,2,78.0,B
+STU0057,École Belge,Bugesera,Male,19,3.5,5,University,1,0,87,,0,85.8,A
+STU0058,Kigali High School,Kicukiro,Female,17,5.0,10,Secondary,1,0,63,7.7,2,72.6,B
+STU0059,École Belge,Bugesera,Female,15,4.3,10,Secondary,1,1,57,6.1,1,90.0,A
+STU0060,FAWE Girls,Bugesera,Male,19,5.8,5,None,1,0,76,8.9,0,76.8,B
+STU0061,Kigali High School,Kicukiro,Female,15,2.6,20,Primary,1,0,78,9.2,4,45.6,Fail
+STU0062,Green Hills Academy,Kicukiro,Female,17,6.4,18,Primary,1,0,76,4.6,0,70.2,B
+STU0063,FAWE Girls,Kicukiro,Male,18,5.6,7,University,0,0,36,5.4,3,67.8,C
+STU0064,École Belge,Musanze,Female,19,1.7,17,Secondary,1,0,72,9.4,1,63.6,C
+STU0065,Green Hills Academy,Kicukiro,Female,16,4.6,15,Primary,0,0,61,7.3,2,77.6,B
+STU0066,École Belge,Gasabo,Male,18,4.6,2,Primary,1,0,35,8.5,3,82.3,A
+STU0067,École Belge,Gasabo,Female,17,7.3,24,Primary,0,0,80,6.8,0,72.2,B
+STU0068,Kigali High School,Gasabo,Female,15,3.2,8,University,0,0,79,9.7,0,69.0,C
+STU0069,FAWE Girls,Kicukiro,Male,15,5.3,22,Secondary,0,0,42,6.1,4,58.7,D
+STU0070,Green Hills Academy,Nyarugenge,Male,15,3.3,5,University,1,0,90,4.3,1,69.7,B
+STU0071,Green Hills Academy,Gasabo,Female,19,5.0,6,Primary,0,1,57,4.5,2,91.9,A
+STU0072,FAWE Girls,Bugesera,Female,19,0.7,17,UNIVERSITY,1,1,38,7.8,2,44.8,Fail
+STU0073,Green Hills Academy,Musanze,Female,18,5.1,19,University,1,1,32,5.5,3,53.8,D
+STU0074,Green Hills Academy,Gasabo,Male,18,6.2,13,Primary,1,0,76,8.0,2,84.9,A
+STU0075,Lycée de Kigali,Musanze,Male,19,5.6,4,Primary,1,1,30,7.7,1,80.5,A
+STU0076,FAWE Girls,Musanze,Female,16,2.1,10,Primary,1,1,35,7.5,1,76.1,B
+STU0077,Kigali High School,Gasabo,Male,19,2.8,20,Primary,0,1,93,8.5,2,69.5,B
+STU0078,Lycée de Kigali,Gasabo,Female,18,2.6,19,University,1,0,42,7.5,3,56.4,D
+STU0079,Kigali High School,Bugesera,Male,15,6.1,7,University,0,1,78,6.2,1,91.0,A
+STU0080,Kigali High School,Nyarugenge,Female,19,4.4,8,University,0,0,59,4.2,0,67.2,C
+STU0081,Lycée de Kigali,Gasabo,Male,15,4.8,4,University,1,1,65,5.3,0,91.5,A
+STU0082,Kigali High School,Kicukiro,Male,18,5.5,10,University,0,0,94,8.0,3,100.0,A
+STU0083,Kigali High School,Kicukiro,Female,15,4.0,6,University,1,1,83,8.9,2,86.6,A
+STU0084,FAWE Girls,Musanze,Male,15,2.0,11,Secondary,1,1,94,7.0,2,71.4,B
+STU0085,Kigali High School,Kicukiro,Female,19,1.7,13,University,1,0,82,9.5,2,58.0,D
+STU0086,FAWE Girls,Nyarugenge,Male,19,6.3,24,Secondary,1,1,56,4.7,1,62.7,C
+STU0087,Kigali High School,Gasabo,Female,16,3.7,2,University,0,1,67,9.9,4,83.6,A
+STU0088,Kigali High School,Gasabo,Female,17,5.5,4,Primary,1,0,86,4.2,1,97.8,A
+STU0089,Kigali High School,Nyarugenge,Female,16,3.9,11,,1,1,42,5.4,3,69.2,B
+STU0090,Kigali High School,Musanze,Male,16,2.2,10,University,1,0,67,5.2,0,150.0,B
+STU0091,Kigali High School,Nyarugenge,Male,15,1.6,19,Primary,1,0,82,6.6,1,57.1,D
+STU0092,Kigali High School,Musanze,Female,18,6.5,22,University,0,0,52,9.7,1,68.5,C
+STU0093,Lycée de Kigali,Gasabo,Female,17,1.1,19,Secondary,1,1,90,8.4,4,51.7,D
+STU0094,Green Hills Academy,Gasabo,Female,19,1.7,7,Secondary,1,0,35,6.6,2,59.3,C
+STU0095,FAWE Girls,Gasabo,Female,16,,22,University,1,0,42,9.7,4,49.3,D
+STU0096,Kigali High School,Bugesera,Female,17,6.2,1,Secondary,1,0,86,9.7,1,100.0,A
+STU0097,Kigali High School,Kicukiro,Female,15,2.4,14,University,1,0,58,9.8,1,70.1,B
+STU0098,Green Hills Academy,Musanze,Female,15,2.6,10,Secondary,0,1,94,8.8,2,79.5,A
+STU0099,Kigali High School,Kicukiro,Male,16,7.9,17,Secondary,1,1,72,5.1,4,78.7,B
+STU0100,Green Hills Academy,Gasabo,Female,18,6.3,4,Secondary,1,1,44,6.2,4,87.1,A
+STU0101,FAWE Girls,Musanze,Female,16,3.0,17,University,0,0,71,9.1,2,65.8,C
+STU0102,Kigali High School,Bugesera,Male,18,7.2,24,University,1,1,45,9.5,4,89.4,A
+STU0103,École Belge,Kicukiro,Female,17,7.8,23,Primary,0,1,49,8.9,1,53.5,D
+STU0104,Kigali High School,Musanze,Male,15,5.1,4,Primary,0,0,74,5.6,3,90.4,A
+STU0105,Kigali High School,Gasabo,Male,16,5.0,6,Primary,1,0,32,8.8,3,72.9,B
+STU0106,École Belge,Musanze,Female,18,5.3,2,University,1,0,75,7.6,0,100.0,A
+STU0107,École Belge,Kicukiro,Female,19,4.8,7,Primary,1,1,64,6.2,2,75.8,B
+STU0108,Kigali High School,Kicukiro,Male,17,5.1,4,,1,1,71,5.0,1,91.0,A
+STU0109,Kigali High School,Gasabo,Female,18,2.4,2,University,1,1,74,4.3,0,97.7,A
+STU0110,FAWE Girls,Kicukiro,Male,18,3.1,21,University,1,0,76,7.8,4,68.4,C
+STU0111,FAWE Girls,Gasabo,Male,15,5.7,17,Secondary,0,0,94,5.4,3,75.8,B
+STU0112,Lycée de Kigali,Musanze,Female,16,6.2,3,Secondary,0,0,66,6.8,4,85.5,A
+STU0113,Green Hills Academy,Gasabo,Female,16,7.9,0,University,1,0,34,5.7,0,88.9,A
+STU0114,Kigali High School,Gasabo,Male,16,5.4,0,Primary,0,0,36,8.4,2,72.7,B
+STU0115,Green Hills Academy,Nyarugenge,Female,19,1.7,7,University,1,0,87,9.6,1,94.4,A
+STU0116,FAWE Girls,Musanze,Male,15,2.9,17,Secondary,1,1,66,8.7,3,51.8,D
+STU0117,FAWE Girls,Kicukiro,Female,15,2.9,7,Secondary,1,1,69,5.5,0,78.6,B
+STU0118,Kigali High School,Gasabo,Female,18,1.9,2,University,0,0,36,5.6,1,70.1,B
+STU0119,École Belge,Gasabo,Female,19,2.1,10,Secondary,0,0,86,9.0,0,67.7,C
+STU0120,Kigali High School,Kicukiro,Male,16,7.8,24,University,1,1,74,9.2,2,93.0,A
+STU0121,Kigali High School,Nyarugenge,Female,15,5.0,12,University,0,1,49,8.2,3,83.5,A
+STU0122,Green Hills Academy,Nyarugenge,Female,15,5.6,6,Secondary,1,0,74,8.9,2,86.6,A
+STU0123,Green Hills Academy,Gasabo,Female,16,5.0,17,University,1,0,94,10.0,0,85.3,A
+STU0124,Kigali High School,Gasabo,Male,15,3.6,13,Primary,0,0,92,5.3,3,77.1,B
+STU0125,Green Hills Academy,Nyarugenge,Female,16,,9,University,0,1,72,9.3,1,81.5,A
+STU0126,FAWE Girls,Musanze,Male,16,,5,Secondary,1,0,39,4.6,0,55.8,D
+STU0127,FAWE Girls,Musanze,Male,18,2.3,1,Primary,0,1,53,4.2,4,81.0,A
+STU0128,FAWE Girls,Gasabo,Female,18,7.9,11,Secondary,1,0,88,9.9,4,83.3,A
+STU0129,Kigali High School,Gasabo,Female,19,6.0,16,Secondary,1,0,67,4.4,1,76.0,B
+STU0130,École Belge,Gasabo,Male,16,3.9,18,None,1,1,65,7.2,1,65.9,C
+STU0131,FAWE Girls,Musanze,Male,18,5.8,7,University,1,0,94,7.7,3,100.0,A
+STU0132,FAWE Girls,Bugesera,Female,18,4.7,21,Secondary,1,0,34,7.4,1,57.6,D
+STU0133,Kigali High School,Gasabo,Male,19,0.9,12,University,1,0,77,6.9,1,72.1,B
+STU0134,FAWE Girls,Bugesera,Male,19,4.4,6,University,1,0,85,6.7,1,95.3,A
+STU0135,FAWE Girls,Nyarugenge,Male,18,4.5,3,Secondary,1,0,74,7.3,4,98.1,A
+STU0136,École Belge,Gasabo,Male,17,7.5,3,Secondary,1,0,47,4.3,2,92.7,A
+STU0137,Kigali High School,Nyarugenge,Female,19,6.3,0,None,1,0,41,6.8,0,68.3,C
+STU0138,Lycée de Kigali,Musanze,Male,17,5.0,9,University,1,0,49,4.1,4,81.6,A
+STU0139,FAWE Girls,Kicukiro,Female,19,,3,None,1,1,58,4.6,1,56.2,D
+STU0140,École Belge,Musanze,Female,16,8.0,22,University,1,0,78,8.1,4,86.2,A
+STU0141,Green Hills Academy,Kicukiro,Male,18,5.3,20,Secondary,1,1,93,5.1,3,77.2,B
+STU0142,Kigali High School,Kicukiro,Female,18,6.3,2,University,1,0,78,7.1,4,88.5,A
+STU0143,Kigali High School,Musanze,Male,17,0.8,4,Primary,1,1,38,9.1,3,56.7,D
+STU0144,Kigali High School,Gasabo,Male,18,1.3,10,Secondary,1,1,87,8.5,4,79.3,A
+STU0145,Green Hills Academy,Kicukiro,Female,18,5.3,14,University,0,0,47,6.9,1,72.3,B
+STU0146,Kigali High School,Musanze,Male,19,7.2,6,University,0,0,87,6.0,2,90.3,A
+STU0147,FAWE Girls,Kicukiro,Female,17,2.5,14,Secondary,0,0,72,6.8,2,76.1,B
+STU0148,FAWE Girls,Kicukiro,Male,19,4.6,9,Secondary,1,1,43,8.6,4,93.2,A
+STU0149,Lycée de Kigali,Bugesera,Male,18,7.2,3,Primary,0,0,81,7.9,3,100.0,A
+STU0150,Kigali High School,Musanze,Female,15,7.0,21,Secondary,1,0,83,4.4,2,64.5,C
+STU0151,Green Hills Academy,Gasabo,Male,19,3.6,9,University,1,0,94,6.7,2,71.5,B
+STU0152,Green Hills Academy,Nyarugenge,Male,15,6.9,22,Secondary,1,0,31,9.0,2,64.3,C
+STU0153,Kigali High School,Kicukiro,Female,19,6.9,15,Primary,1,0,71,8.2,1,86.1,A
+STU0154,Kigali High School,Musanze,Female,16,3.7,16,None,1,0,59,6.7,0,45.9,Fail
+STU0155,Lycée de Kigali,Kicukiro,Male,16,5.5,16,Primary,1,1,41,6.3,3,71.3,B
+STU0156,Kigali High School,Bugesera,Male,16,6.2,8,None,1,0,37,6.4,3,71.3,B
+STU0157,Kigali High School,Kicukiro,Male,19,7.2,7,Secondary,0,0,55,8.7,2,100.0,A
+STU0158,Lycée de Kigali,Nyarugenge,Female,17,5.9,7,Primary,1,1,74,7.0,0,88.4,A
+STU0159,Lycée de Kigali,Nyarugenge,Male,17,6.2,4,University,1,1,67,7.7,1,100.0,A
+STU0160,FAWE Girls,Gasabo,Male,19,5.9,6,Secondary,0,0,80,4.6,3,98.4,A
+STU0161,Green Hills Academy,Bugesera,Male,17,7.5,15,Secondary,1,1,45,8.5,3,86.4,A
+STU0162,FAWE Girls,Bugesera,Female,17,,19,Primary,0,0,79,5.7,1,50.7,D
+STU0163,FAWE Girls,Kicukiro,Male,16,4.0,21,Secondary,1,0,36,9.5,1,63.7,C
+STU0164,Lycée de Kigali,Musanze,Female,17,1.5,23,Secondary,0,0,38,9.9,3,43.9,Fail
+STU0165,Green Hills Academy,Kicukiro,Female,19,1.2,2,Secondary,1,1,60,9.9,1,75.7,B
+STU0166,Green Hills Academy,Gasabo,Male,15,4.9,18,None,1,0,64,7.5,2,64.9,C
+STU0167,FAWE Girls,Nyarugenge,Male,17,0.7,7,Secondary,1,0,62,8.1,3,62.6,C
+STU0168,Lycée de Kigali,Nyarugenge,Male,18,3.9,16,Secondary,1,0,59,6.6,2,68.4,C
+STU0169,Kigali High School,Musanze,Male,15,5.7,11,None,1,1,53,8.1,3,69.0,C
+STU0170,Lycée de Kigali,Bugesera,Male,18,,23,Primary,1,1,78,9.8,2,72.3,B
+STU0171,FAWE Girls,Bugesera,Male,15,3.1,9,Secondary,0,0,92,5.7,0,68.9,C
+STU0172,Kigali High School,Musanze,Female,15,6.9,8,Primary,1,0,32,7.8,3,83.8,A
+STU0173,FAWE Girls,Gasabo,Female,16,7.0,15,None,0,0,78,5.7,1,74.0,B
+STU0174,FAWE Girls,Kicukiro,Male,15,5.8,12,Primary,0,0,35,7.0,0,72.5,B
+STU0175,Green Hills Academy,Kicukiro,Female,17,3.8,14,None,1,0,53,6.4,0,61.1,C
+STU0176,École Belge,Musanze,Female,18,5.7,10,Primary,1,1,78,9.4,2,79.8,A
+STU0177,Kigali High School,Musanze,Male,16,4.0,18,None,1,1,68,9.3,0,63.0,C
+STU0178,Lycée de Kigali,Nyarugenge,Female,18,3.8,2,Secondary,1,0,84,5.3,2,87.7,A
+STU0179,Green Hills Academy,Kicukiro,Male,18,7.9,1,Secondary,1,0,44,8.4,3,90.8,A
+STU0180,École Belge,Gasabo,Female,16,1.8,22,Secondary,0,1,84,4.4,0,51.2,D
+STU0181,Green Hills Academy,Kicukiro,Female,15,2.0,4,None,0,1,61,7.5,3,89.9,A
+STU0182,Green Hills Academy,Kicukiro,Male,19,5.6,15,University,1,1,88,5.0,3,76.6,B
+STU0183,Lycée de Kigali,Gasabo,Female,16,6.7,8,Primary,1,0,41,6.9,4,67.9,C
+STU0184,Kigali High School,Nyarugenge,Male,17,2.9,1,Primary,1,1,70,5.4,2,78.6,B
+STU0185,Green Hills Academy,Gasabo,Female,17,3.1,16,Secondary,1,0,80,4.8,4,54.9,D
+STU0186,FAWE Girls,Musanze,Female,18,2.5,3,Primary,0,0,93,4.8,1,84.0,A
+STU0187,École Belge,Kicukiro,Male,19,5.2,22,University,0,1,85,7.6,0,68.6,C
+STU0188,École Belge,Gasabo,Male,15,5.7,17,Primary,1,0,77,7.1,2,91.6,A
+STU0189,École Belge,Kicukiro,Female,19,1.2,1,University,1,0,87,6.1,2,79.7,A
+STU0190,Kigali High School,Kicukiro,Female,18,4.8,20,Secondary,0,0,63,8.4,3,57.9,D
+STU0191,Kigali High School,Gasabo,Male,19,6.9,2,University,0,0,39,9.3,1,91.6,A
+STU0192,Lycée de Kigali,Bugesera,Male,16,1.4,0,Secondary,1,1,53,6.7,3,85.4,A
+STU0193,FAWE Girls,Kicukiro,Male,17,2.9,10,Primary,1,0,90,9.7,4,83.8,A
+STU0194,Kigali High School,Gasabo,Female,17,3.9,20,Secondary,0,0,79,7.0,0,62.4,C
+STU0195,Green Hills Academy,Musanze,Male,17,4.9,14,Secondary,0,0,82,8.3,4,71.9,B
+STU0196,Kigali High School,Nyarugenge,Male,17,2.1,1,Secondary,1,0,80,7.8,3,86.2,A
+STU0197,Green Hills Academy,Nyarugenge,Female,15,1.6,21,Primary,1,1,46,6.5,4,44.0,Fail
+STU0198,Lycée de Kigali,Nyarugenge,Male,18,6.3,12,Secondary,1,0,45,6.9,2,68.3,C
+STU0199,Green Hills Academy,Gasabo,Male,19,2.1,18,University,0,1,52,8.1,4,56.9,D
+STU0200,FAWE Girls,Gasabo,Female,19,5.2,23,Secondary,1,0,75,9.6,0,77.2,B
+STU0201,Green Hills Academy,Gasabo,Male,17,2.1,10,Secondary,1,0,50,9.7,2,69.6,B
+STU0202,École Belge,Gasabo,Male,18,3.7,13,University,1,1,87,7.7,4,69.2,B
+STU0203,FAWE Girls,Gasabo,Female,19,7.5,24,None,1,0,46,9.6,3,72.3,B
+STU0204,Kigali High School,Gasabo,Female,19,1.1,3,None,0,0,30,4.1,4,44.1,Fail
+STU0205,École Belge,Musanze,Male,17,1.8,20,Secondary,0,0,62,6.8,0,53.8,D
+STU0206,Green Hills Academy,Kicukiro,Female,19,1.6,2,University,1,0,85,8.7,2,96.0,A
+STU0207,École Belge,Gasabo,Male,16,4.0,4,Primary,0,0,55,8.6,4,68.2,C
+STU0208,FAWE Girls,Bugesera,Female,17,3.3,22,Primary,0,1,64,8.9,0,45.7,Fail
+STU0209,Kigali High School,Bugesera,Male,18,4.4,4,,0,1,50,6.7,0,75.5,B
+STU0210,Green Hills Academy,Gasabo,Male,18,3.8,3,Secondary,1,0,68,7.7,3,99.4,A
+STU0211,Kigali High School,Kicukiro,Female,19,6.4,2,University,1,0,61,4.4,2,90.6,A
+STU0212,Kigali High School,Gasabo,Male,16,5.0,17,Primary,1,0,54,5.9,2,61.8,C
+STU0213,Kigali High School,Nyarugenge,Male,17,6.6,9,University,1,0,63,9.2,4,90.2,A
+STU0214,FAWE Girls,Nyarugenge,Male,19,1.9,7,Secondary,0,0,71,,4,55.1,D
+STU0215,Green Hills Academy,Bugesera,Male,16,7.9,1,Primary,1,1,91,6.3,4,100.0,A
+STU0216,Lycée de Kigali,Bugesera,Male,17,4.8,13,Primary,1,0,72,5.4,4,82.8,A
+STU0217,FAWE Girls,Gasabo,Male,18,7.4,20,Secondary,1,0,67,4.8,4,70.5,B
+STU0218,École Belge,Gasabo,Male,15,0.7,0,Secondary,1,0,36,9.3,0,69.8,B
+STU0219,Kigali High School,Gasabo,Male,17,7.0,1,,0,1,87,7.5,4,100.0,A
+STU0220,Lycée de Kigali,Nyarugenge,Male,15,2.7,20,Secondary,1,1,31,5.4,4,33.6,Fail
+STU0221,FAWE Girls,Gasabo,Male,17,6.2,0,University,0,1,93,5.8,1,99.7,A
+STU0222,Green Hills Academy,Musanze,Male,18,4.2,19,University,0,0,48,9.0,2,50.4,D
+STU0223,FAWE Girls,Bugesera,Female,19,4.4,23,None,1,0,37,5.4,3,39.4,Fail
+STU0224,Kigali High School,Nyarugenge,Male,18,7.7,3,Primary,0,1,67,6.2,1,97.5,A
+STU0225,École Belge,Musanze,Female,16,7.9,10,University,1,0,53,4.1,3,79.5,A
+STU0226,École Belge,Musanze,Male,16,5.1,6,Primary,1,1,30,5.6,2,86.9,A
+STU0227,Green Hills Academy,Musanze,Female,15,6.3,0,University,1,1,84,4.3,4,100.0,A
+STU0228,FAWE Girls,Kicukiro,Female,15,5.9,13,University,0,0,94,8.6,4,90.2,A
+STU0229,Green Hills Academy,Musanze,Male,18,3.6,2,Secondary,0,1,71,6.1,0,78.7,B
+STU0230,Lycée de Kigali,Kicukiro,Female,15,5.4,17,University,1,0,59,6.2,1,82.5,A
+STU0231,Kigali High School,Nyarugenge,Female,16,3.8,1,Secondary,0,1,32,9.2,2,83.7,A
+STU0232,Kigali High School,Musanze,Female,15,5.8,18,Primary,1,1,61,5.9,3,77.1,B
+STU0233,Green Hills Academy,Gasabo,Male,17,2.1,20,Primary,1,1,70,7.4,4,66.8,C
+STU0234,Kigali High School,Musanze,Female,15,3.8,8,Primary,1,0,93,9.9,4,89.3,A
+STU0235,Lycée de Kigali,Nyarugenge,Male,19,7.8,7,Secondary,0,0,85,4.3,4,82.2,A
+STU0236,Lycée de Kigali,Gasabo,Female,19,2.0,8,University,1,0,82,9.2,0,69.9,B
+STU0237,FAWE Girls,Gasabo,Male,18,5.4,22,University,1,0,66,5.6,0,73.6,B
+STU0238,FAWE Girls,Bugesera,Female,18,3.6,15,Secondary,1,1,54,4.1,2,61.1,C
+STU0239,École Belge,Gasabo,Female,17,2.1,3,Primary,1,1,47,5.4,1,61.6,C
+STU0240,Green Hills Academy,Kicukiro,Male,17,3.7,24,Secondary,1,0,46,5.0,4,45.6,Fail
+STU0241,École Belge,Kicukiro,Male,15,5.0,20,Secondary,0,0,59,9.0,3,57.7,D
+STU0242,Green Hills Academy,Nyarugenge,Female,15,3.8,24,None,0,0,41,8.8,1,48.4,Fail
+STU0243,Lycée de Kigali,Kicukiro,Male,16,6.5,10,None,0,0,35,8.2,2,78.0,B
+STU0244,Green Hills Academy,Kicukiro,Male,16,4.9,7,University,1,0,34,9.5,0,82.8,A
+STU0245,Kigali High School,Nyarugenge,Male,19,6.1,8,Primary,0,0,86,7.8,4,87.1,A
+STU0246,Green Hills Academy,Nyarugenge,Female,19,4.5,11,University,1,1,40,5.7,4,78.5,B
+STU0247,FAWE Girls,Musanze,Male,18,5.8,11,Secondary,1,0,60,9.5,4,82.5,A
+STU0248,Kigali High School,Gasabo,Female,15,2.5,21,Primary,1,0,57,6.7,3,43.2,Fail
+STU0249,FAWE Girls,Gasabo,Male,16,5.2,15,Primary,0,1,83,6.8,1,78.4,B
+STU0250,Green Hills Academy,Gasabo,Male,15,7.6,9,Primary,1,1,40,5.3,4,79.4,A
+STU0021,Green Hills Academy,Bugesera,Female,15,2.7,17,University,1,1,80,6.4,3,75.0,B
+STU0056,École Belge,Kicukiro,Female,16,3.2,7,Secondary,0,0,69,7.4,2,78.0,B
+STU0113,Green Hills Academy,Gasabo,Female,16,7.9,0,University,1,0,34,5.7,0,88.9,A
